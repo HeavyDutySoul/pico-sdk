@@ -30,7 +30,7 @@
 
 // --- WS2812 ---
 #ifndef PICO_DEFAULT_WS2812_PIN
-#define PICO_DEFAULT_WS2812_PIN 16
+#define PICO_DEFAULT_WS2812_PIN 22
 #endif
 
 // --- I2C ---
